@@ -1,3 +1,4 @@
+#Another comment to test hook
 #Adding commenting to this line
 #Adding one more line to test script 
 #!/bin/bash
