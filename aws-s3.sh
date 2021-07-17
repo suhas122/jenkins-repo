@@ -1,4 +1,5 @@
 #Adding commenting to this line
+#Adding one more line to test script 
 #!/bin/bash
 date=$(date +%H-%M-%S)
 DB_HOST=$1
