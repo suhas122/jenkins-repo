@@ -1,3 +1,4 @@
+#Adding commenting to this line
 #!/bin/bash
 date=$(date +%H-%M-%S)
 DB_HOST=$1
